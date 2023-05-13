@@ -9,3 +9,15 @@ Simple winforms application which serves an UI to use Novadrop CLI
 
 1. Compiled binaries of [Novadrop](https://github.com/vezel-dev/novadrop)
 2. [.Net Runtime Desktop](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.14-windows-x64-installer)
+
+# Pre-Configuration
+
+Folders must follow this structure, place the binaries and their corresponding dlls into their respective folders.
+
+novadrop
+  
+├── novadrop-dc-x64
+  
+├── novadrop-dc-x86
+  
+└── novadrop-rc
